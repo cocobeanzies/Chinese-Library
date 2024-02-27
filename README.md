@@ -1471,6 +1471,12 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Please want</th>
 	</tr>
 	<tr>
+		<td>想要</td>
+		<th>Xiǎng yào</th>
+		<th>I think I want</th>
+		<th>Think want</th>
+	</tr>
+	<tr>
 		<td>不客气</td>
 		<th>Bù kèqì</th>
 		<th>You're welcome</th>
@@ -1501,11 +1507,11 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>It doesn't matter</th>
 	</tr>
 	<tr>
-			<td>没事</td>
-			<th>Méishì</th>
-			<th>It's okay</th>
-			<th>Without things/Without problems</th>
-		</tr>
+		<td>没事</td>
+		<th>Méishì</th>
+		<th>It's okay</th>
+		<th>Without things/Without problems</th>
+	</tr>
 	<tr>
 		<td>请坐</td>
 		<th>Qǐng zuò</th>
