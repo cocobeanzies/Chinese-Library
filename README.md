@@ -1057,6 +1057,12 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Wash bath</th>
 	</tr>
 	<tr>
+		<td>干净</td>
+		<th>Gānjìng</th>
+		<th>Clean</th>
+		<th>Clean</th>
+	</tr>
+	<tr>
 		<td>久</td>
 		<th>Jiǔ</th>
 		<th>Long</th>
@@ -1103,6 +1109,12 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Rè</th>
 		<th>Hot</th>
 		<th>Hot</th>
+	</tr>
+	<tr>
+		<td>冷</td>
+		<th>Lěng</th>
+		<th>Cold</th>
+		<th>Cold</th>
 	</tr>
 	<tr>
 		<td>冰</td>
@@ -1232,7 +1244,7 @@ Please download HTML for proper visualisation, or visit the live website <a href
 	</tr>
 	<tr>
 		<td>真</td>
-		<td>真</td>
+		<td>Zhēn</td>
 		<th>Real</th>
 		<th>Real</th>
 	</tr>
