@@ -685,7 +685,7 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<td>去年</td>
 		<th>Qùnián</th>
 		<th>Last year</th>
-		<th>Last year</th>
+		<th>Gone year</th>
 	</tr>
 	<tr>
 		<td>明年</td>
