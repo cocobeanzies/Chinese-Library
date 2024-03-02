@@ -811,6 +811,18 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Sleepy</th>
 	</tr>
 	<tr>
+		<td>睡觉 </td>
+		<th>Shuìjiào</th>
+		<th>Sleep</th>
+		<th>To go to sleep</th>
+	</tr>
+	<tr>
+		<td>起床</td>
+		<th>Qǐchuáng</th>
+		<th>Wake up</th>
+		<th>To wake up</th>
+	</tr>
+	<tr>
 		<td>运动</td>
 		<th>Yùndòng</th>
 		<th>Sports</th>
@@ -1013,6 +1025,12 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Cèsuǒ</th>
 		<th>Toilet</th>
 		<th>Toilet place</th>
+	</tr>
+	<tr>
+		<td>洗澡</td>
+		<th>Xǐzǎo </th>
+		<th>Shower</th>
+		<th>Wash bath</th>
 	</tr>
 	<tr>
 		<td>久</td>
