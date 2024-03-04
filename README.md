@@ -975,7 +975,7 @@ Please download HTML for proper visualisation, or visit the live website <a href
 	<tr>
 		<td>飞机</td>
 		<th>Fēijī</th>
-		<th>Airoplane</th>
+		<th>Aeroplane </th>
 		<th>Flying machine</th>
 	</tr>
 	<tr>
@@ -1115,6 +1115,36 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Kuàizi</th>
 		<th>Chopsticks</th>
 		<th>Fast little things</th>
+	</tr>
+	<tr>
+		<td>辣</td>
+		<th>Là</th>
+		<th>Spicy</th>
+		<th>Spicy</th>
+	</tr>
+	<tr>
+		<td>甜</td>
+		<th>Tián</th>
+		<th>Sweet</th>
+		<th>Sweet</th>
+	</tr>
+	<tr>
+		<td>酸</td>
+		<th>Suān</th>
+		<th>Sour</th>
+		<th>Sour/Acid</th>
+	</tr>
+	<tr>
+		<td>苦</td>
+		<th>Kǔ</th>
+		<th>Bitter</th>
+		<th>Bitter</th>
+	</tr>
+	<tr>
+		<td>咸</td>
+		<th>Xián</th>
+		<th>Salty</th>
+		<th>Salty</th>
 	</tr>
 	<tr>
 		<td>热</td>
