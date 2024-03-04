@@ -883,6 +883,12 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Expensive/Honourable</th>
 	</tr>
 	<tr>
+		<td>便宜</td>
+		<th>Piányí</th>
+		<th>Cheap</th>
+		<th>Cheap/Inexpensive</th>
+	</tr>
+	<tr>
 		<td>伟大</td>
 		<th>Wěidà</th>
 		<th>Great</th>
@@ -1007,6 +1013,12 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Yīyuàn</th>
 		<th>Hospital</th>
 		<th>Hospital</th>
+	</tr>
+	<tr>
+		<td>酒店</td>
+		<th>Jiǔdiàn</th>
+		<th>Hotel</th>
+		<th>Liquor shop</th>
 	</tr>
 	<tr>
 		<td>机场</td>
@@ -1985,6 +1997,31 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th style="color: silver">Pīnyīn</th>
 		<th style="color: silver">English</th>
 	</tr>
+		<tr>
+		<td>水果</td>
+		<th>Shuǐguǒ</th>
+		<th>Fruit</th>
+	</tr>
+	<tr>
+		<td>苹果</td>
+		<th>Píngguǒ</th>
+		<th>Apple</th>
+	</tr>
+	<tr>
+		<td>西瓜</td>
+		<th>Xīguā</th>
+		<th>Watermelon</th>
+	</tr>
+	<tr>
+		<td>芒果</td>
+		<th>Mángguǒ</th>
+		<th>Mango</th>
+	</tr>
+	<tr>
+		<td>菠萝</td>
+		<th>Bōluó</th>
+		<th>Pineapple</th>
+	</tr>
 	<tr>
 		<td>海鲜</td>
 		<th>Hǎixiān</th>
@@ -2011,29 +2048,14 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Bread bun</th>
 	</tr>
 	<tr>
-		<td>水果</td>
-		<th>Shuǐguǒ</th>
-		<th>Fruit</th>
+		<td>汉堡/汉堡包</td>
+		<th>Hànbǎo/Hanbǎobāo</th>
+		<th>Hamburger</th>
 	</tr>
 	<tr>
-		<td>苹果</td>
-		<th>Píngguǒ</th>
-		<th>Apple</th>
-	</tr>
-	<tr>
-		<td>西瓜</td>
-		<th>Xīguā</th>
-		<th>Watermelon</th>
-	</tr>
-	<tr>
-		<td>芒果</td>
-		<th>Mángguǒ</th>
-		<th>Mango</th>
-	</tr>
-	<tr>
-		<td>菠萝</td>
-		<th>Bōluó</th>
-		<th>Pineapple</th>
+		<td>薯条</td>
+		<th>Shǔ tiáo</th>
+		<th>French fries</th>
 	</tr>
 	<tr>
 		<td>果汁</td>
