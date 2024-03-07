@@ -789,6 +789,13 @@ Please download HTML for proper visualisation, or visit the live website <a href
 	There is a different between when you should use 要 (Yào) and 想 (Xiǎng). 要 (Yào) means to want, while 想 (Xiǎng) means thinking of wanting. So 要 (Yào) is a definitive want, while 想 (Xiǎng) could be subject to change.
 </p>
 
+<button class="collapse" align="center">
+	Additional note 四
+</button>
+<p class="content" align="center">
+	In a sentence using 太 (Tài), meaning extremely, you should formerly always have 了 (Le) at the end of the sentence. This is only exempt when speaking quickly/informally.
+</p>
+
 <h2 style="color: seashell;" align="center" <a id="Additional">Additional Words</a></h2>
 
 <table style="color: silver;" align="center">
@@ -1385,6 +1392,16 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<td>根</td>
 		<th>Gēn</th>
 		<th>A stick of</th>
+	</tr>
+		<tr>
+		<td>份</td>
+		<th>Fèn</th>
+		<th>An order of</th>
+	</tr>
+	<tr>
+		<td>碗</td>
+		<th>Wǎn</th>
+		<th>A bowl of</th>
 	</tr>
 </table>
 
@@ -2027,10 +2044,15 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th style="color: silver">Pīnyīn</th>
 		<th style="color: silver">English</th>
 	</tr>
-		<tr>
+	<tr>
 		<td>水果</td>
 		<th>Shuǐguǒ</th>
 		<th>Fruit</th>
+	</tr>
+	<tr>
+		<td>沙拉</td>
+		<th>Shālā</th>
+		<th>Salad</th>
 	</tr>
 	<tr>
 		<td>苹果</td>
@@ -2073,9 +2095,24 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Biscuit/Cookie</th>
 	</tr>
 	<tr>
+		<td>面条</td>
+		<th>Miàntiáo</th>
+		<th>Noodles</th>
+	</tr>
+	<tr>
+		<td>米饭</td>
+		<th>Mǐfàn</th>
+		<th>Rice</th>
+	</tr>
+	<tr>
 		<td>面包</td>
 		<th>Miànbāo</th>
 		<th>Bread bun</th>
+	</tr>
+	<tr>
+		<td>牛排</td>
+		<th>Niúpái</th>
+		<th>Steak</th>
 	</tr>
 	<tr>
 		<td>汉堡/汉堡包</td>
@@ -2086,6 +2123,11 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<td>薯条</td>
 		<th>Shǔ tiáo</th>
 		<th>French fries</th>
+	</tr>
+	<tr>
+		<td>汤</td>
+		<th>Tāng</th>
+		<th>Soup</th>
 	</tr>
 	<tr>
 		<td>果汁</td>
@@ -2122,6 +2164,7 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Hóngjiǔ</th>
 		<th>Wine</th>
 	</tr>
+</table>
 </table>
 
 <h2 style="color: seashell;" align="center" <a id="Countries">Countries</a></h2>
