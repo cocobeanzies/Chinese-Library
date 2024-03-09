@@ -1124,6 +1124,24 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Fast little things</th>
 	</tr>
 	<tr>
+		<td>叉子</td>
+		<th>Chāzi</th>
+		<th>Fork</th>
+		<th>Crossed little things</th>
+	</tr>
+	<tr>
+		<td>勺子</td>
+		<th>Sháozi</th>
+		<th>Spoon</th>
+		<th>Spooned little things</th>
+	</tr>
+	<tr>
+		<td>刀子</td>
+		<th>Dāozi</th>
+		<th>Knife</th>
+		<th>Bladed little things</th>
+	</tr>
+	<tr>
 		<td>辣</td>
 		<th>Là</th>
 		<th>Spicy</th>
