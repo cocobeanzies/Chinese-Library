@@ -1506,6 +1506,30 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Late peace</th>
 	</tr>
 	<tr>
+		<td>上班</td>
+		<th>Shàngbān</th>
+		<th>Go to work</th>
+		<th>Up work</th>
+	</tr>
+	<tr>
+		<td>下班</td>
+		<th>Xiàbān</th>
+		<th>Get off work</th>
+		<th>Down work</th>
+	</tr>
+	<tr>
+		<td>上课</td>
+		<th>Shàngkè</th>
+		<th>Attend class</th>
+		<th>Up class</th>
+	</tr>
+	<tr>
+		<td>下课</td>
+		<th>Xiàkè</th>
+		<th>Get out of class</th>
+		<th>Down class</th>
+	</tr>
+	<tr>
 		<td>再见</td>
 		<th>Zàijiàn</th>
 		<th>Goodbye</th>
