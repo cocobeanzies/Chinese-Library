@@ -1505,6 +1505,18 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Goodnight</th>
 		<th>Late peace</th>
 	</tr>
+		<tr>
+		<td>几点</td>
+		<th>Jǐ diǎn</th>
+		<th>What time</th>
+		<th>Number dot</th>
+	</tr>
+	<tr>
+		<td>什么时候</td>
+		<th>Shénme shíhòu</th>
+		<th>When will</th>
+		<th>What hour when</th>
+	</tr>
 	<tr>
 		<td>上班</td>
 		<th>Shàngbān</th>
