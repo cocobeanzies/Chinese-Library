@@ -621,7 +621,7 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Everyday</th>
 		<th>Everyday</th>
 	</tr>
-	<tr>
+		<tr>
 		<td>现在 </td>
 		<th>Xiànzài</th>
 		<th>Now</th>
@@ -631,7 +631,7 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<td>早上</td>
 		<th>Zǎoshang</th>
 		<th>Morning</th>
-		<th>Morning</th>
+		<th>Morning up</th>
 	</tr>
 	<tr>
 		<td>早晨</td>
@@ -642,19 +642,25 @@ Please download HTML for proper visualisation, or visit the live website <a href
 	<tr>
 		<td>中午</td>
 		<th>Zhōngwǔ</th>
-		<th>Noon</th>
+		<th>Middle noon</th>
 		<th>High noon (12 O'Clock)</th>
 	</tr>
 	<tr>
 		<td>下午</td>
 		<th>Xiàwǔ</th>
 		<th>Afternoon</th>
-		<th>Afternoon</th>
+		<th>Down noon</th>
 	</tr>
 	<tr>
 		<td>晚上</td>
 		<th>Wǎnshàng</th>
-		<th>Night</th>
+		<th>Evening/Night</th>
+		<th>Night down</th>
+	</tr>
+	<tr>
+		<td>夜晚</td>
+		<th>Yèwǎn</th>
+		<th>Late night</th>
 		<th>Night</th>
 	</tr>
 	<tr>
