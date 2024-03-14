@@ -998,6 +998,12 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Wash clothes machine</th>
 	</tr>
 	<tr>
+		<td>上网</td>
+		<th>Shàngwǎng</th>
+		<th>Surfing the internet</th>
+		<th>Up web</th>
+	</tr>
+	<tr>
 		<td>工作</td>
 		<th>Gōngzuò</th>
 		<th>Work</th>
@@ -1582,6 +1588,12 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Nǐ jīntiān zěnme yàng?</th>
 		<th>How are you today?</th>
 		<th>You today how about?</th>
+	</tr>
+	<tr>
+		<td>经常</td>
+		<th>Jīngcháng</th>
+		<th>Often</th>
+		<th>Often</th>
 	</tr>
 	<tr>
 		<td>最近</td>
@@ -2534,6 +2546,11 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<td>家庭主妇</td>
 		<th>Jiātíng zhǔfù</th>
 		<th>Housewife</th>
+	</tr>
+	<tr>
+		<td>游戏玩家</td>
+		<th>Yóuxì wánjiā</th>
+		<th>Gamer 😝</th>
 	</tr>
 </table>
 
