@@ -460,18 +460,6 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Thanks</th>
 	</tr>
 	<tr>
-		<td>对不起</td>
-		<th>Duìbùqǐ</th>
-		<th>Sorry</th>
-		<th>Can't face it</th>
-	</tr>
-	<tr>
-		<td>抱歉</td>
-		<th>Bàoqiàn</th>
-		<th>Sorry</th>
-		<th>Hold guilt</th>
-	</tr>
-	<tr>
 		<td>礼物</td>
 		<th>Lǐwù</th>
 		<th>Gift</th>
@@ -765,6 +753,18 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Completion/Change</th>
 		<th>了啊</th>
 	</tr>
+		<tr>
+		<td>快</td>
+		<th>Kuài</th>
+		<th>Quick</th>
+		<th>Quick/Quickly</th>
+	</tr>
+	<tr>
+		<td>慢</td>
+		<th>Màn</th>
+		<th>Slow</th>
+		<th>Slow/Slowly</th>
+	</tr>
 </table>
 
 <button class="collapse" align="center">
@@ -1003,6 +1003,13 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Surfing the internet</th>
 		<th>Up web</th>
 	</tr>
+	<tr>
+		<td>约会</td>
+		<th>Yuēhuì</th>
+		<th>Dating</th>
+		<th>Meeting/Appointment</th>
+	</tr>
+	<tr>
 	<tr>
 		<td>工作</td>
 		<th>Gōngzuò</th>
@@ -1433,6 +1440,16 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Wǎn</th>
 		<th>A bowl of</th>
 	</tr>
+	<tr>
+		<td>第</td>
+		<th>Dì</th>
+		<th>"st"/"nd"/"rd"/"th" of a number</th>
+	</tr>
+	<tr>
+		<td>次</td>
+		<th>Cì</th>
+		<th>Accompanies 第</th>
+	</tr>
 </table>
 
 <button class="collapse" align="center">
@@ -1440,6 +1457,12 @@ Please download HTML for proper visualisation, or visit the live website <a href
 </button>
 <p class="content" align="center">
 	Quantifiers are only necessary when a quantity is specified. They go before the noun in question.
+</p>
+<button class="collapse" align="center">
+	Additional note 二
+</button>
+<p class="content" align="center">
+	第 （Dì） goes before a number to be quantified, while 次 （Cì） goes after the number.<br>Example: 第一次 （Dìyīcì） means "first".
 </p>
 
 <h2 style="color: seashell;" align="center" <a id="Basics2">Basic Phrases</a></h2>
@@ -1685,6 +1708,24 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>No thanks</th>
 		<th>No use, thanks</th>
 	</tr>
+		<tr>
+		<td>对不起</td>
+		<th>Duìbùqǐ</th>
+		<th>Sorry</th>
+		<th>Can't face it</th>
+	</tr>
+	<tr>
+		<td>抱歉</td>
+		<th>Bàoqiàn</th>
+		<th>Sorry</th>
+		<th>Hold guilt</th>
+	</tr>
+	<tr>
+		<td>不好意思</td>
+		<th>Bù hǎoyìsi</th>
+		<th>Sorry/Excuse me/Embarrassed</th>
+		<th>Not good meaning</th>
+	</tr>
 	<tr>
 		<td>没关系</td>
 		<th>Méiguānxì</th>
@@ -1768,18 +1809,6 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Zàishuō yīcì</th>
 		<th>Say it again</th>
 		<th>Again say once again</th>
-	</tr>
-	<tr>
-		<td>快</td>
-		<th>Kuài</th>
-		<th>Quick</th>
-		<th>Quick/Quickly</th>
-	</tr>
-	<tr>
-		<td>慢</td>
-		<th>Màn</th>
-		<th>Slow</th>
-		<th>Slow/Slowly</th>
 	</tr>
 	<tr>
 		<td>是不是</td>
