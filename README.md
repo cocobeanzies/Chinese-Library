@@ -2333,6 +2333,11 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>Student</th>
 	</tr>
 	<tr>
+		<td>同学</td>
+		<th>Tóngxué</th>
+		<th>Classmate</th>
+	</tr>
+	<tr>
 		<td>老师</td>
 		<th>Lǎoshī</th>
 		<th>Teacher</th>
@@ -2356,6 +2361,11 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<td>工人</td>
 		<th>Gōngrén</th>
 		<th>Worker</th>
+	</tr>
+	<tr>
+		<td>同事</td>
+		<th>Tóngshì</th>
+		<th>Colleague</th>
 	</tr>
 	<tr>
 		<td>医生</td>
