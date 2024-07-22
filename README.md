@@ -1727,7 +1727,7 @@ Please download HTML for proper visualisation, or visit the live website <a href
 		<th>No thanking</th>
 	</tr>
 	<tr>
-		<td>不用了，謝謝</td>
+		<td>不用了，谢谢</td>
 		<th>Bùyòngle, xièxiè</th>
 		<th>No thanks</th>
 		<th>No use, thanks</th>
